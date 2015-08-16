@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SuperSwipeRefreshLayout.iml" filepath="$PROJECT_DIR$/SuperSwipeRefreshLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuSwipeRefreshLayout.iml" filepath="$PROJECT_DIR$/SuSwipeRefreshLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
